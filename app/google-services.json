@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239944625694",
+    "firebase_url": "https://push-notification-654c5.firebaseio.com",
+    "project_id": "push-notification-654c5",
+    "storage_bucket": "push-notification-654c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239944625694:android:489d40a337f7691ebc880f",
+        "android_client_info": {
+          "package_name": "edu.newhaven.krikorherlopian.android.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239944625694-ojlrtmkl4mnrb8q17c9dgnpg16k6837a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDitgOlfGW560WQWxQzxJYvrdA42UIVOWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239944625694-ojlrtmkl4mnrb8q17c9dgnpg16k6837a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
